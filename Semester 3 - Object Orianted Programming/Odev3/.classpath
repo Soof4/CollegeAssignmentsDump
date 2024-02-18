@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="221229015_Emre_Cebeci/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="221229015_Emre_Cebeci/src"/>
+	<classpathentry kind="output" path="221229015_Emre_Cebeci/bin"/>
+</classpath>
