@@ -1,0 +1,3 @@
+/home/soofa/School/Veri Yapıları/Odev2/cmake-build-debug/CMakeFiles/Odev2.dir
+/home/soofa/School/Veri Yapıları/Odev2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/soofa/School/Veri Yapıları/Odev2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+### Docker ve Container'ın Kurulumu
+1. https://www.docker.com/products/docker-desktop/ adresinden Docker Desktop indirilir ve kurulur.
+2. Terminal'dan ``docker pull mysql`` komutu ile MySql image dosyasi indirilir.
+3. Terminal'dan ``docker run --name mysql_container -e MYSQL_ROOT_PASSWORD=123 -p 3306:3306 -d mysql`` komutu çalıştırılarak "mysql_container" adında yeni bir container kurulur ve çalıştırılır.
+
+Not: Daha sonraki tekrarlarda sadece Docker Desktop üzerinden mysql_container aktif edilir.
+
+### Projenin Çalıştırılması
+1. Yöntem:
+    1. Öncelikle yukarıda anlatılan şekilde "mysql_container" aktive edilmeli.
+    2. Proje klasörü içerisindeki IleriProgOdev/IleriProgOde.sln dosyası Visual Studio ortamında açılıp direkt compile edilip çalıştırılmalı.
+2. Yöntem:
+    1. Öncelikle yukarıda anlatılan şekilde "mysql_container" aktive edilmeli.
+    2. Proje klasörü içerisindeki IleriProgOdev/IleriProgOdev/bin/Debug/IleriProgOdev.exe dosyası çalıştırılmalı.

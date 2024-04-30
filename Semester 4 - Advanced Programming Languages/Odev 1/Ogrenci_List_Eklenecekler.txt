@@ -1,0 +1,5 @@
+1#211229001#Ahmet#Yılmaz#f211229001@ktun.edu.tr#Mühendislik ve Doğa Bilimleri Fakültesi#Yazılım Mühendisliği
+2#211229002#Aslı#Kaya#f211229002@ktun.edu.tr#Mühendislik ve Doğa Bilimleri Fakültesi#Yazılım Mühendisliği
+3#211229003#Mehmet#Yıldız#f211229003@ktun.edu.tr#Mühendislik ve Doğa Bilimleri Fakültesi#Yazılım Mühendisliği
+4#211229004#Ayşe#Yıldırım#f211229004@ktun.edu.tr#Mühendislik ve Doğa Bilimleri Fakültesi#Yazılım Mühendisliği
+5#211229005#Merve#Öztürk#f211229005@ktun.edu.tr#Mühendislik ve Doğa Bilimleri Fakültesi#Yazılım Mühendisliği

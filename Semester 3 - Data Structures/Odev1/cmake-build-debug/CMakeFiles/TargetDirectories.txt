@@ -1,0 +1,2 @@
+/home/soofa/CLionProjects/VeriYapilari/Odev/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/soofa/CLionProjects/VeriYapilari/Odev/cmake-build-debug/CMakeFiles/rebuild_cache.dir
